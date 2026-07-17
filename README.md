@@ -10,7 +10,7 @@ This project demonstrates autonomous navigation using an ultrasonic sensor mount
 
 ---
 
-# 🛠 Components Used
+# Components Used
 
 | Component | Quantity |
 |------------|----------|
@@ -155,7 +155,7 @@ Verify that the servo scans left, center, and right while measuring the distance
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Bluetooth Control
 - Wi-Fi Control (ESP32)
